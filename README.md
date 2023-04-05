@@ -1,4 +1,4 @@
-# Awesome Continual Self-Supervised Learning
+# Awesome Continual Self-Supervised Learning [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
 List of papers that combine self-supervision and continual learning
 
 ## Papers
