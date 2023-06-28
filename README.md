@@ -4,13 +4,12 @@ List of papers that combine self-supervision and continual learning
 ## Papers
 
 ### 2023
-- Are Labels Needed for Incremental Instance Learning? (**CVPRW 2023**) [[paper](https://arxiv.org/abs/2301.11417)]
 - CoRaL: Continual Representation Learning for Overcoming Catastrophic Forgetting (**AAMAS 2023**) [[paper](https://dl.acm.org/doi/abs/10.5555/3545946.3598866)]
 - Practical self-supervised continual learning with continual fine-tuning (**arXiv 2023**) [[paper](https://arxiv.org/abs/2303.17235)]
 - CSSL-MHTR: Continual Self-Supervised Learning for Scalable Multi-script Handwritten Text Recognition (**arXiv 2023**) [[paper](https://arxiv.org/abs/2303.09347)]
 - Efficient Self-supervised Continual Learning with Progressive Task-correlated Layer Freezing (**arXiv 2023**) [[paper](https://arxiv.org/abs/2303.07477)]
 - Towards Label-Efficient Incremental Learning: A Survey (**arXiv 2023**) [[paper](https://arxiv.org/abs/2302.00353)]
-- Are Labels Needed for Incremental Instance Learning? (**arXiv 2023**) [[paper](https://arxiv.org/abs/2301.11417)]
+- Are Labels Needed for Incremental Instance Learning? (**CVPRW 2023**) [[paper](https://arxiv.org/abs/2301.11417)]
 - Continual Barlow Twins: continual self-supervised learning for remote sensing semantic segmentation (**arXiv 2023**) [[paper](https://arxiv.org/abs/2205.11319)]
 
 ### 2022
