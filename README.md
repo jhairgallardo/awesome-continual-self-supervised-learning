@@ -12,11 +12,11 @@ List of papers that combine self-supervision and continual learning
 - Towards Label-Efficient Incremental Learning: A Survey (**arXiv 2023**) [[paper](https://arxiv.org/abs/2302.00353)]
 - Are Labels Needed for Incremental Instance Learning? (**CVPRW 2023**) [[paper](https://arxiv.org/abs/2301.11417)]
 - Continual Barlow Twins: continual self-supervised learning for remote sensing semantic segmentation (**arXiv 2023**) [[paper](https://arxiv.org/abs/2205.11319)]
+- SCALE: Online Self-Supervised Lifelong Learning without Prior Knowledge (**CVPRW 2023**) [[paper](https://arxiv.org/abs/2208.11266)]
 
 ### 2022
 - Grow and Merge: A Unified Framework for Continuous Categories Discovery (**NeurIPS 2022**) [[paper](https://arxiv.org/abs/2210.04174)]
 - Beyond Supervised Continual Learning: a Review (**ESANN 2022**) [[paper](https://arxiv.org/abs/2208.14307)]
-- SCALE: Online Self-Supervised Lifelong Learning without Prior Knowledge (**arXiv 2022**) [[paper](https://arxiv.org/abs/2208.11266)]
 - How Well Does Self-Supervised Pre-Training Perform with Streaming Data? (**ICLR 2022**) [[paper](https://arxiv.org/abs/2104.12081)]
 - Continual Contrastive Learning for Image Classification (**ICME 2022**) [[paper](https://arxiv.org/abs/2107.01776)]
 - Task Agnostic Representation Consolidation: a Self-supervised based Continual Learning Approach (**CoLLAs 2022**) [[paper](https://arxiv.org/abs/2207.06267)] [[code](https://github.com/NeurAI-Lab/TARC)]
