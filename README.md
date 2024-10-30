@@ -3,6 +3,7 @@ List of papers that combine self-supervision and continual learning
 
 ## Papers
 ### 2024
+- Integrating Present and Past in Unsupervised Continual Learning (**CoLLAs 2024**) [[paper](https://arxiv.org/abs/2404.19132)][[code](https://github.com/SkrighYZ/Osiris)]
 - CroMo-Mixup: Augmenting Cross-Model Representations for Continual Self-Supervised Learning (**ECCV 2024**) [[paper](https://arxiv.org/abs/2407.12188)][[code](https://github.com/ErumMushtaq/CroMo-Mixup)]
 - Regularizing with Pseudo-Negatives for Continual Self-Supervised Learning (**ICML 2024**) [[paper](https://arxiv.org/abs/2306.05101)][[code](https://github.com/csm9493/PNR)]
   
