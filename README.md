@@ -17,6 +17,7 @@ List of papers that combine self-supervision and continual learning
 - Regularizing with Pseudo-Negatives for Continual Self-Supervised Learning (**ICML 2024**) [[paper](https://arxiv.org/abs/2306.05101)][[code](https://github.com/csm9493/PNR)]
   
 ### 2023
+- Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning (**CVPR 2023**) [[paper](https://arxiv.org/abs/2311.17597)][[code](https://github.com/yeerwen/MedCoSS)]
 - Continual Self-Supervised Learning in Earth Observation with Embedding Regularization (**IGARS 2023**) [[paper](https://ieeexplore.ieee.org/document/10283121)]
 - CUCL: Codebook for Unsupervised Continual Learning (**ACM 2023**) [[paper](https://arxiv.org/abs/2311.14911)]
 - Contrastive Continuity on Augmentation Stability Rehearsal for Continual Self-Supervised Learning (**ICCV 2023**) [[paper](https://ieeexplore.ieee.org/document/10377817)]
