@@ -4,6 +4,7 @@ List of papers that combine self-supervision and continual learning
 ## Papers
 ### 2025
 - Memory Storyboard: Leveraging Temporal Segmentation for Streaming Self-Supervised Learning from Egocentric Videos (arxiv 2025) [[paper](https://arxiv.org/abs/2501.12254)]
+- Continual Self-supervised Learning Considering Medical Domain Knowledge in Chest CT Images (arxiv 2025) [[paper](https://arxiv.org/abs/2501.04217)]
 
 ### 2024
 - Branch-Tuning: Balancing Stability and Plasticity for Continual Self-Supervised Learning (arXiv 2024) [[paper](https://arxiv.org/abs/2403.18266)]
