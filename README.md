@@ -3,6 +3,7 @@ List of papers that combine self-supervision and continual learning
 
 ## Papers
 ### 2024
+- Branch-Tuning: Balancing Stability and Plasticity for Continual Self-Supervised Learning (arXiv 2024) [[paper](https://arxiv.org/abs/2403.18266)]
 - Effective Data Selection and Replay for Unsupervised Continual Learning (**ICDE 2024**) [[paper](https://ieeexplore-ieee-org.ezproxy.rit.edu/document/10598102)]
 - Must Unsupervised Continual Learning Relies on Previous Information? (**CVPRW 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024W/JRDB/html/Cheng_Must_Unsupervised_Continual_Learning_Relies_on_Previous_Information_CVPRW_2024_paper.html)]
 - Plasticity-Optimized Complementary Networks for Unsupervised Continual Learning (**WACV 2024**) [[paper](https://arxiv.org/abs/2309.06086)][[code](https://github.com/alviur/pocon_wacv2024)]
@@ -15,14 +16,14 @@ List of papers that combine self-supervision and continual learning
 ### 2023
 - CUCL: Codebook for Unsupervised Continual Learning (**ACM 2023**) [[paper](https://arxiv.org/abs/2311.14911)]
 - Contrastive Continuity on Augmentation Stability Rehearsal for Continual Self-Supervised Learning (**ICCV 2023**) [[paper](https://ieeexplore.ieee.org/document/10377817)]
-- Sy-CON: Symmetric Contrastive Loss for Continual Self-Supervised Representation Learning (**arXiv 2023**) [[paper](https://arxiv.org/abs/2306.05101v1)]
+- Sy-CON: Symmetric Contrastive Loss for Continual Self-Supervised Representation Learning (arXiv 2023) [[paper](https://arxiv.org/abs/2306.05101v1)]
 - CoRaL: Continual Representation Learning for Overcoming Catastrophic Forgetting (**AAMAS 2023**) [[paper](https://dl.acm.org/doi/abs/10.5555/3545946.3598866)]
-- Kaizen: Practical self-supervised continual learning with continual fine-tuning (**arXiv 2023**) [[paper](https://arxiv.org/abs/2303.17235)][[code](https://github.com/dr-bell/kaizen)]
-- CSSL-MHTR: Continual Self-Supervised Learning for Scalable Multi-script Handwritten Text Recognition (**arXiv 2023**) [[paper](https://arxiv.org/abs/2303.09347)]
-- Efficient Self-supervised Continual Learning with Progressive Task-correlated Layer Freezing (**arXiv 2023**) [[paper](https://arxiv.org/abs/2303.07477)]
-- Towards Label-Efficient Incremental Learning: A Survey (**arXiv 2023**) [[paper](https://arxiv.org/abs/2302.00353)]
+- Kaizen: Practical self-supervised continual learning with continual fine-tuning (arXiv 2023) [[paper](https://arxiv.org/abs/2303.17235)][[code](https://github.com/dr-bell/kaizen)]
+- CSSL-MHTR: Continual Self-Supervised Learning for Scalable Multi-script Handwritten Text Recognition (arXiv 2023) [[paper](https://arxiv.org/abs/2303.09347)]
+- Efficient Self-supervised Continual Learning with Progressive Task-correlated Layer Freezing (arXiv 2023) [[paper](https://arxiv.org/abs/2303.07477)]
+- Towards Label-Efficient Incremental Learning: A Survey (arXiv 2023) [[paper](https://arxiv.org/abs/2302.00353)]
 - Are Labels Needed for Incremental Instance Learning? (**CVPRW 2023**) [[paper](https://arxiv.org/abs/2301.11417)]
-- Continual Barlow Twins: continual self-supervised learning for remote sensing semantic segmentation (**arXiv 2023**) [[paper](https://arxiv.org/abs/2205.11319)]
+- Continual Barlow Twins: continual self-supervised learning for remote sensing semantic segmentation (arXiv 2023) [[paper](https://arxiv.org/abs/2205.11319)]
 - SCALE: Online Self-Supervised Lifelong Learning without Prior Knowledge (**CVPRW 2023**) [[paper](https://arxiv.org/abs/2208.11266)]
 
 ### 2022
@@ -38,7 +39,7 @@ List of papers that combine self-supervision and continual learning
 - MUSCLE: Multi-task Self-supervised Continual Learning to Pre-train Deep Models for X-Ray Images of Multiple Body Parts (**MICCAI 2022**) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_15)]
 
 ### 2021
-- Self-Supervised Class Incremental Learning (**arXiv 2021**) [[paper](https://arxiv.org/abs/2111.11208)]
+- Self-Supervised Class Incremental Learning (arXiv 2021) [[paper](https://arxiv.org/abs/2111.11208)]
 - DualNet: Continual Learning, Fast and Slow (**NeurIPS 2021**) [[paper](https://arxiv.org/abs/2110.00175)] [[code](https://github.com/phquang/DualNet)]
 - Co<sup>2</sup>L: Contrastive Continual Learning (**ICCV 2021**) [[paper](https://arxiv.org/abs/2106.14413)] [[code](https://github.com/chaht01/Co2L)]
 - SPeCiaL: Self-Supervised Pretraining for Continual Learning (**IJCAI-W 2021**) [[paper](https://arxiv.org/abs/2106.09065)]
@@ -47,7 +48,7 @@ List of papers that combine self-supervision and continual learning
 - Reduce the Difficulty of Incremental Learning With Self-Supervised Learning (**2021**) [[paper](https://ieeexplore.ieee.org/document/9537773)]
 
 ### 2020
-- Self-Supervised Learning Aided Class-Incremental Lifelong Learning (**arXiv 2020**) [[paper](https://arxiv.org/abs/2006.05882)]
+- Self-Supervised Learning Aided Class-Incremental Lifelong Learning (arXiv 2020) [[paper](https://arxiv.org/abs/2006.05882)]
 
 ### 2019
 - Continual Unsupervised Representation Learning (**NeurIPS 2019**) [[paper](https://arxiv.org/abs/1910.14481)]
