@@ -3,6 +3,7 @@ List of papers that combine self-supervision and continual learning
 
 ## Papers
 ### 2024
+- Effective Data Selection and Replay for Unsupervised Continual Learning (**ICDE 2024**) [[paper](https://ieeexplore-ieee-org.ezproxy.rit.edu/document/10598102)]
 - Must Unsupervised Continual Learning Relies on Previous Information? (**CVPRW 2024**) [[paper](https://openaccess.thecvf.com/content/CVPR2024W/JRDB/html/Cheng_Must_Unsupervised_Continual_Learning_Relies_on_Previous_Information_CVPRW_2024_paper.html)]
 - Plasticity-Optimized Complementary Networks for Unsupervised Continual Learning (**WACV 2024**) [[paper](https://arxiv.org/abs/2309.06086)][[code](https://github.com/alviur/pocon_wacv2024)]
 - Evolve: Enhancing Unsupervised Continual Learning With Multiple Experts (**WACV 2024**) [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Yu_Evolve_Enhancing_Unsupervised_Continual_Learning_With_Multiple_Experts_WACV_2024_paper.html)][[code](https://github.com/Orienfish/Evolve)]
