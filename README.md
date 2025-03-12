@@ -3,6 +3,7 @@ List of papers that combine self-supervision and continual learning
 
 ## Papers
 ### 2024
+- Plasticity-Optimized Complementary Networks for Unsupervised Continual Learning (**WACV 2024**) [[paper](https://arxiv.org/abs/2309.06086)][[code](https://github.com/alviur/pocon_wacv2024)]
 - Evolve: Enhancing Unsupervised Continual Learning With Multiple Experts (**WACV 2024**) [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Yu_Evolve_Enhancing_Unsupervised_Continual_Learning_With_Multiple_Experts_WACV_2024_paper.html)][[code](https://github.com/Orienfish/Evolve)]
 - Integrating Present and Past in Unsupervised Continual Learning (**CoLLAs 2024**) [[paper](https://arxiv.org/abs/2404.19132)][[code](https://github.com/SkrighYZ/Osiris)]
 - CroMo-Mixup: Augmenting Cross-Model Representations for Continual Self-Supervised Learning (**ECCV 2024**) [[paper](https://arxiv.org/abs/2407.12188)][[code](https://github.com/ErumMushtaq/CroMo-Mixup)]
