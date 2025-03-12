@@ -30,6 +30,7 @@ List of papers that combine self-supervision and continual learning
 - SCALE: Online Self-Supervised Lifelong Learning without Prior Knowledge (**CVPRW 2023**) [[paper](https://arxiv.org/abs/2208.11266)]
 
 ### 2022
+- Learning Representations for New Sound Classes With Continual Self-Supervised Learning (**Signal Processing Letters**) [[paper](https://arxiv.org/abs/2205.07390)]
 - Grow and Merge: A Unified Framework for Continuous Categories Discovery (**NeurIPS 2022**) [[paper](https://arxiv.org/abs/2210.04174)]
 - Beyond Supervised Continual Learning: a Review (**ESANN 2022**) [[paper](https://arxiv.org/abs/2208.14307)]
 - How Well Does Self-Supervised Pre-Training Perform with Streaming Data? (**ICLR 2022**) [[paper](https://arxiv.org/abs/2104.12081)]
